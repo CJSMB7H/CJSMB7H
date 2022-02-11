@@ -2,6 +2,6 @@
 
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cjsmx&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cjsmx&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cjsmx&show_icons=true&theme=xcode" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cjsmx&theme=xcode" />
 </p>
