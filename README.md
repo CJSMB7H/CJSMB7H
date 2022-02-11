@@ -1,4 +1,4 @@
-[![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=cjsmx&theme=dracula)](https://git.io/cjsmx)
+[![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=cjsmx&theme=xcode)](https://git.io/cjsmx)
 
 <p align="center">
 	
