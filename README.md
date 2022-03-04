@@ -3,5 +3,5 @@
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CJSMB7H&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CMJSB7H&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CJSMB7H&theme=dark" />
 </p>
